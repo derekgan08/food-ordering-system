@@ -1,0 +1,5 @@
+# Ignore executable files
+*.exe
+
+# Ignore temporary data txt files
+*.txt
